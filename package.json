@@ -1,0 +1,27 @@
+{
+  "name": "cb-builder",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "builder.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "undici-types": "^6.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node builder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uni298/cb-builder.git"
+  },
+  "keywords": [
+    "build"
+  ],
+  "author": "Uni298",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Uni298/cb-builder/issues"
+  },
+  "homepage": "https://github.com/Uni298/cb-builder#readme"
+}
